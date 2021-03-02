@@ -1,2 +1,3 @@
 # Terramar_comentarios
 TextAnalytics para comentarios y opiniones de la empresa Terramar
+Para el reto #3 decidí utilizar el servicio cognitivo de Azure TextAnalytics, esto con el fin de analizar los comentarios que se tienen acerca de los productos de la empresa Terramar, la cual fabrica y distribuye productos para el cuidado facial, corporal, cosméticos y perfumes. Todos fabricados con material de esencias naturales que no afectan a la piel. Para la empresa es importante saber la opinión de sus clientes por lo cual se decidió implementar un servicio de IA para analizar el texto de las reseñas de sus clientes hacia con los productos y saber si gustan o no y de esta manera mejorar la producción y calidad de sus productos.
